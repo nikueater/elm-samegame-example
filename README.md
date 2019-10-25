@@ -1,5 +1,8 @@
 # elm samegame
 
+## demo
+https://nikueater.github.io/elm-samegame-example/
+
 ## how to run
 
 ```sh
