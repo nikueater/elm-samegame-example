@@ -11,5 +11,5 @@ or
 
 ```sh
 % make
-% open ./dist/index.html
+% open ./docs/index.html
 ```

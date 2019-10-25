@@ -1,3 +1,3 @@
 
 all: 
-	elm make src/Main.elm --optimize --output=dist/index.html
+	elm make src/Main.elm --optimize --output=docs/index.html
