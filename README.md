@@ -1,5 +1,8 @@
 # elm samegame
 
+## explanation
+Qiita(Japanese): https://qiita.com/nikueaters/items/1fb8112bc291fadb5365 
+
 ## demo
 https://nikueater.github.io/elm-samegame-example/
 
